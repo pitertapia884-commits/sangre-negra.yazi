@@ -2,6 +2,10 @@
 
 A dark theme for [Yazi](https://github.com/sxyazi/yazi) built around a **pure black and blood red** palette. No pastels, no Catppuccin, no generic colors.
 
+## Preview
+
+> Pure black background, directories and files in wine red, syntax highlighting in dark grays.
+
 ## Colors
 
 | Element | Color |
@@ -12,12 +16,13 @@ A dark theme for [Yazi](https://github.com/sxyazi/yazi) built around a **pure bl
 | Archives | Bright red `#c0392b` |
 | Images | Brown `#a0522d` |
 | Audio / Video | Dark red `#922b21` |
+| Syntax highlighting | Dark grays |
 | Background | Pure black |
 
 ## Requirements
 
 - [Yazi](https://github.com/sxyazi/yazi) v0.2.4 or higher
-- A [Nerd Font](https://www.nerdfonts.com/) installed in your terminal
+- A [Nerd Font](https://www.nerdfonts.com/) installed in your terminal (optional, for icons)
 
 ## Installation
 

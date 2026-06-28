@@ -2,6 +2,10 @@
 
 Tema oscuro para [Yazi](https://github.com/sxyazi/yazi) basado en una paleta de **negro puro y rojo vino**. Sin pasteles, sin Catppuccin, sin colores genéricos.
 
+## Vista previa
+
+> Fondo negro puro, directorios y archivos en rojo vino, syntax highlighting en grises oscuros.
+
 ## Colores
 
 | Elemento | Color |
@@ -12,12 +16,13 @@ Tema oscuro para [Yazi](https://github.com/sxyazi/yazi) basado en una paleta de 
 | Comprimidos | Rojo brillante `#c0392b` |
 | Imágenes | Café `#a0522d` |
 | Audio / Video | Rojo oscuro `#922b21` |
+| Syntax highlighting | Grises oscuros |
 | Fondo | Negro puro |
 
 ## Requisitos
 
 - [Yazi](https://github.com/sxyazi/yazi) v0.2.4 o superior
-- Una [Nerd Font](https://www.nerdfonts.com/) instalada en tu terminal
+- Una [Nerd Font](https://www.nerdfonts.com/) instalada en tu terminal (opcional, para íconos)
 
 ## Instalación
 
