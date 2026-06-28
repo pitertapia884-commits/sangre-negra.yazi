@@ -16,7 +16,6 @@ marker_symbol   = "│"
 border_symbol = "│"
 border_style  = { fg = "#2a0000" }
 
-syntect_theme = ""
 
 [tabs]
 active   = { bg = "#8b0000", bold = true }
