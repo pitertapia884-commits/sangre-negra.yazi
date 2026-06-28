@@ -4,7 +4,8 @@ A dark theme for [Yazi](https://github.com/sxyazi/yazi) built around a **pure bl
 
 ## Preview
 
-> Pure black background, directories and files in wine red, syntax highlighting in dark grays.
+![preview](preview1.webp)
+![preview](preview2.webp)
 
 ## Colors
 

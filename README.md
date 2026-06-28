@@ -4,7 +4,8 @@ Tema oscuro para [Yazi](https://github.com/sxyazi/yazi) basado en una paleta de 
 
 ## Vista previa
 
-> Fondo negro puro, directorios y archivos en rojo vino, syntax highlighting en grises oscuros.
+![preview](preview1.webp)
+![preview](preview2.webp)
 
 ## Colores
 
