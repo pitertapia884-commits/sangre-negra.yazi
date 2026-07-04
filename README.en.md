@@ -15,7 +15,7 @@ A dark theme for [Yazi](https://github.com/sxyazi/yazi) built around a **pure bl
 | Text and code files | Wine red `#8b0000` |
 | Executables | Blood red `#c0392b` |
 | Archives | Bright red `#c0392b` |
-| Images | Brown `#a0522d` |
+| Images | Dark wine red `#6b0000` |
 | Audio / Video | Dark red `#922b21` |
 | Syntax highlighting | Dark grays |
 | Background | Pure black |

@@ -15,7 +15,7 @@ Tema oscuro para [Yazi](https://github.com/sxyazi/yazi) basado en una paleta de 
 | Archivos de texto y código | Rojo vino `#8b0000` |
 | Ejecutables | Rojo sangre `#c0392b` |
 | Comprimidos | Rojo brillante `#c0392b` |
-| Imágenes | Café `#a0522d` |
+| Imágenes | Rojo vino oscuro `#6b0000` |
 | Audio / Video | Rojo oscuro `#922b21` |
 | Syntax highlighting | Grises oscuros |
 | Fondo | Negro puro |
