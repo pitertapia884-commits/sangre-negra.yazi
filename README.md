@@ -1,41 +1,41 @@
 # sangre-negra.yazi
 
-Tema oscuro para [Yazi](https://github.com/sxyazi/yazi) basado en una paleta de **negro puro y rojo vino**. Sin pasteles, sin Catppuccin, sin colores genéricos.
+A dark theme for [Yazi](https://github.com/sxyazi/yazi) built around a **pure black and blood red** palette. No pastels, no Catppuccin, no generic colors.
 
-## Vista previa
+## Preview
 
 ![preview](preview1.webp)
 ![preview](preview2.webp)
 
-## Colores
+## Colors
 
-| Elemento | Color |
+| Element | Color |
 |---|---|
-| Carpetas | Rojo vino `#8b0000` |
-| Archivos de texto y código | Rojo vino `#8b0000` |
-| Ejecutables | Rojo sangre `#c0392b` |
-| Comprimidos | Rojo brillante `#c0392b` |
-| Imágenes | Rojo vino oscuro `#6b0000` |
-| Audio / Video | Rojo oscuro `#922b21` |
-| Syntax highlighting | Grises oscuros |
-| Fondo | Negro puro |
+| Directories | Wine red `#8b0000` |
+| Text and code files | Wine red `#8b0000` |
+| Executables | Blood red `#c0392b` |
+| Archives | Bright red `#c0392b` |
+| Images | Dark wine red `#6b0000` |
+| Audio / Video | Dark red `#922b21` |
+| Syntax highlighting | Dark grays |
+| Background | Pure black |
 
-## Requisitos
+## Requirements
 
-- [Yazi](https://github.com/sxyazi/yazi) v0.2.4 o superior
-- Una [Nerd Font](https://www.nerdfonts.com/) instalada en tu terminal (opcional, para íconos)
+- [Yazi](https://github.com/sxyazi/yazi) v0.2.4 or higher
+- A [Nerd Font](https://www.nerdfonts.com/) installed in your terminal (optional, for icons)
 
-## Instalación
+## Installation
 
 ```bash
-# Crear la carpeta de flavors si no existe
+# Create the flavors folder if it doesn't exist
 mkdir -p ~/.config/yazi/flavors
 
-# Clonar el repositorio
+# Clone the repository
 git clone https://github.com/pitertapia884-commits/sangre-negra.yazi ~/.config/yazi/flavors/sangre-negra.yazi
 ```
 
-Luego edita tu `~/.config/yazi/theme.toml` y agrega:
+Then edit your `~/.config/yazi/theme.toml` and add:
 
 ```toml
 [flavor]
@@ -43,11 +43,11 @@ dark  = "sangre-negra"
 light = "sangre-negra"
 ```
 
-Reinicia Yazi y listo.
+Restart Yazi and you're done.
 
-## Desinstalación
+## Uninstall
 
-Borra la carpeta del flavor y elimina las líneas de `theme.toml`:
+Remove the flavor folder and delete the lines from `theme.toml`:
 
 ```bash
 rm -rf ~/.config/yazi/flavors/sangre-negra.yazi
